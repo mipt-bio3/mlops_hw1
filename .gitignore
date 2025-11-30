@@ -15,10 +15,8 @@ env/
 mlruns/
 mlflow.db
 .mlflow/
-.dvc/cache/
 .dvc/tmp/
-model.pkl
 metrics.json
 data/raw/*.csv
-data/processed/
+data/processed/*.csv
 dvc.lock
