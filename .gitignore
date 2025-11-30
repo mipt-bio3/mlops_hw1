@@ -19,3 +19,4 @@ mlflow.db
 metrics.json
 data/raw/*.csv
 data/processed/*.csv
+dvc.lock
