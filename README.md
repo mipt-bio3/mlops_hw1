@@ -9,6 +9,9 @@
 Следуйте этим шагам для установки и запуска пайплайна:
 
 ```bash
+# 0. Клонирование репозитория
+git clone https://github.com/mipt-bio3/mlops_hw1
+
 # 1. Установка зависимостей
 pip install -r requirements.txt --no-input
 
