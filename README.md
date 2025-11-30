@@ -25,7 +25,7 @@ dvc pull
 dvc repro
 
 # 4. Запуск MLflow для просмотра результатов экспериментов
-mlflow ui --backend-store-uri sqlite:///mlflow.db
+mlflow ui
 
 # 5. Открыть браузер и перейти на http://localhost:5000
 
