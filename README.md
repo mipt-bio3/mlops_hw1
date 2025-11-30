@@ -23,8 +23,8 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 
 # 5. Открыть браузер и перейти на http://localhost:5000
 
-# 6. Проверка воспроизводимости (запустить дважды, метрики должны совпадать)
-cat metrics.json
+# 6. Проверка воспроизводимости
+verify_reproducibility.sh
 ```
 
 ## Описание пайплайна
