@@ -11,6 +11,7 @@
 ```bash
 # 0. Клонирование репозитория
 git clone https://github.com/mipt-bio3/mlops_hw1
+cd mlops_hw1
 
 # 1. Установка зависимостей
 pip install -r requirements.txt --no-input
