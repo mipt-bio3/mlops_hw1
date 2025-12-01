@@ -9,13 +9,11 @@ __pycache__/
 venv/
 env/
 .env
-*.pkl
 *.joblib
 *.pth
-mlruns/
-mlflow.db
-.mlflow/
-.dvc/tmp/
+*.pkl
 metrics.json
 data/raw/*.csv
 data/processed/*.csv
+mlruns/
+.mlflow/
